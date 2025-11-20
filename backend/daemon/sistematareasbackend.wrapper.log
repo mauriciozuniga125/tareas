@@ -1,0 +1,4 @@
+2025-11-12 11:36:22 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=256 C:\Users\MAURICIO\Desktop\sistematareas\backend\node_modules\node-windows\lib\wrapper.js --file C:\Users\MAURICIO\Desktop\sistematareas\backend\index.js --scriptoptions= --log "SistematareasBackend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-12 11:36:22 - Started 11064
+2025-11-18 17:39:33 - Starting C:\Program Files\nodejs\node.exe  --max_old_space_size=256 C:\Users\MAURICIO\Desktop\sistematareas\backend\node_modules\node-windows\lib\wrapper.js --file C:\Users\MAURICIO\Desktop\sistematareas\backend\index.js --scriptoptions= --log "SistematareasBackend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-11-18 17:39:33 - Started 7256
